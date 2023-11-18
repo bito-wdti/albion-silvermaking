@@ -1,0 +1,24 @@
+{
+  "name": "albion-silvermaking",
+  "version": "1.0.0",
+  "description": "O Albion Refine Calculator é uma ferramenta de calculo de lucro para jogadores do jogo Albion Online.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bito-wdti/albion-silvermaking.git"
+  },
+  "author": "Bito WDTI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bito-wdti/albion-silvermaking/issues"
+  },
+  "homepage": "https://github.com/bito-wdti/albion-silvermaking#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
