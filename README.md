@@ -1,6 +1,6 @@
 # ⚔ Albion Silvermaking
 
-O Albion Refine Calculator é uma ferramenta de calculo de lucro para jogadores do jogo Albion Online.
+O Albion Silvermaking é uma ferramenta de calculo de lucro para jogadores do jogo Albion Online.
 
 ## 📖 Introdução
 
